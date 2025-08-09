@@ -1,2 +1,4 @@
 /data/baywheels_all_years/*
+/notebooks/valencia_bike_lane.html
+/notebooks/.ipynb_checkpoints/*
 .DS_Store
